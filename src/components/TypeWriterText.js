@@ -102,7 +102,7 @@ const TypeWriterText = () => {
       <SubTitle>Let's Make this a banana summer.</SubTitle>
       <ButtonContainer>
           <a className="button-dark"
-          href="/mint" rel="noreferrer">Mint you Banana</a>
+          href="https://mint.crazybananaunion.tk/" target="_blank" rel="noreferrer">Mint you Banana</a>
       </ButtonContainer>
     </>
   );
