@@ -104,7 +104,7 @@ const Banner = () => {
       </Title>
       <BtnContainer>
       <a className="button-light"
-              href="https://www.discord.com/" rel="noreferrer">Join Now</a>
+              href="https://discord.gg/dCZhmJVMKz" target="_blank" rel="noreferrer">Join Now</a>
       </BtnContainer>
     </Section>
   );

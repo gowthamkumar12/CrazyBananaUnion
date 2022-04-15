@@ -183,14 +183,14 @@ const Navigation = () => {
             <div className="mobile">
               <IconList>
           <a
-              href="https://twitter.com"
+              href="https://twitter.com/CrazybananaU"
               target="_blank"
               rel="noopener noreferrer"
             >
               <Twitter />
             </a>
             <a
-              href="https://Discord.com"
+              href="https://discord.gg/dCZhmJVMKz"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -205,7 +205,7 @@ const Navigation = () => {
             </a>
             
             <a
-              href="https://opensea.com"
+              href="https://opensea.io/collection/crazybananaunion"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -218,14 +218,14 @@ const Navigation = () => {
         <div className="desktop">
           <IconList>
           <a
-              href="https://twitter.com"
+              href="https://twitter.com/CrazybananaU"
               target="_blank"
               rel="noopener noreferrer"
             >
               <Twitter />
             </a>
             <a
-              href="https://Discord.com"
+              href="https://discord.gg/dCZhmJVMKz"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -240,7 +240,7 @@ const Navigation = () => {
             </a>
             
             <a
-              href="https://opensea.com"
+              href="https://opensea.io/collection/crazybananaunion"
               target="_blank"
               rel="noopener noreferrer"
             >

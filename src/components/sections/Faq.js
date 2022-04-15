@@ -103,7 +103,7 @@ const Faq = () => {
             augmented reality headsets.
           </Accordion>
           <Accordion title="WHY DO WE NEED ROYALTIES?">
-            The amount of royalties was fixed at 10% to finance the CrazyBananaUnion
+            The amount of royalties was fixed at 7.5% to finance the CrazyBananaUnion
             projects. We have the ambition to organize multiple events
             around the world in order to strengthen the community and build a
             network of entrepreneurs and investors with the same mindset and
