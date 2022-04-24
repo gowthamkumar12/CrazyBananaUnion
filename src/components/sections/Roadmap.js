@@ -225,7 +225,7 @@ const Roadmap = () => {
           <RoadMapItem
             addToRef={addToRefs}
             title="20% - 30%"
-            subtext="The presale of the first 9,900 out of 10,000 crazy bananas will be available for minting for all the members at the cost of 3 MATIC. The sale will be available at the mid-may of 2022."
+            subtext="The presale of the first 9,900 out of 10,000 crazy bananas will be available for minting for all the members at the cost of 3 MATIC. The sale starts soon this year."
           />
           <RoadMapItem
             addToRef={addToRefs}
